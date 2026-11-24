@@ -1,0 +1,8 @@
+{
+  "name": "LedgerDoc",
+  "description": "Automated Excel-to-document report generator that extracts spreadsheet metrics and formats structured reports into your document templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
